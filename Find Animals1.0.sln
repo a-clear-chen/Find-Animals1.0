@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Animals1.0", "Assembly-CSharp.csproj", "{BE670707-0403-E76A-CF12-07397D4DFDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Animals1.0", "Assembly-CSharp-Editor.csproj", "{35707D74-307A-0FC6-693A-EB2A15C01DD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE670707-0403-E76A-CF12-07397D4DFDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE670707-0403-E76A-CF12-07397D4DFDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE670707-0403-E76A-CF12-07397D4DFDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE670707-0403-E76A-CF12-07397D4DFDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35707D74-307A-0FC6-693A-EB2A15C01DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35707D74-307A-0FC6-693A-EB2A15C01DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35707D74-307A-0FC6-693A-EB2A15C01DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35707D74-307A-0FC6-693A-EB2A15C01DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
